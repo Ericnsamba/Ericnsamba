@@ -17,9 +17,7 @@ Here are some ideas to get you started:
   
   <p align="center">
   <img width="180" src="https://github.com/Ericnsamba/Ericnsamba/blob/main/Group%207.png" />  
-  <h2 align="center">Eric N'samba
-  </a>
-</h2>
+  <h2 align="center">Eric Manasse N</h2>
 
 <!-- ************************ -->
 
