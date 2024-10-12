@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, WordPress
 - ⚙️ React, React Native, NextJS
-- 👁️ SASS, CSS, Bootstrap
+- 👁️ SASS, CSS, Bootstrap, Tailwind css
 - 💽 Firebase, MySQL, Mongo, 
 
 
